@@ -1,5 +1,5 @@
 # CECS-378-Cryptography-LAB
-A python program that will attempt a brute-force decryptionattack on an encrypted phase that uses the simple substitution cypher. 
+A python program that will attempt a brute-force decryption attack on an encrypted phrase that uses the simple substitution cypher. 
 Uses a caesar cipher to decrypt the first two cipher texts and a hill climbing quadgram algorithm for the last two ciphers.
 
 Must decrypt these cipher texts 
